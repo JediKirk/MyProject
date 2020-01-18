@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TnwR4B56IBFEvYSpO5PtRCIus8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StudyFileRead" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="a" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Console">
+    <configuration name="AddTask2" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.Homework.AddTask2" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.store.Console" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework.store.Main" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Main" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.homework.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Task2" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.homework.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Task3" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson7.homework.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.Homework.Task6" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson1.Homework.Task7" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson1.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson2.Homework.Task8" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson2.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Console" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="" />
+      <created>1574109155412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574109155412</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1579342544775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-707" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579342477316" />
+    <state x="594" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579342544775" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579354755505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354755505" />
+    <state width="981" height="218" key="GridCell.Tab.0.bottom" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579354304173" />
+    <state width="981" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.0.center" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="229" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579354304173" />
+    <state width="981" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.0.left" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="229" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579354304173" />
+    <state width="981" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.0.right" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="229" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579354304173" />
+    <state width="981" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.1.bottom" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="218" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579351492068" />
+    <state width="981" height="218" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.1.center" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="218" key="GridCell.Tab.1.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579351492068" />
+    <state width="981" height="218" key="GridCell.Tab.1.center/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.1.left" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="218" key="GridCell.Tab.1.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579351492068" />
+    <state width="981" height="218" key="GridCell.Tab.1.left/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="218" key="GridCell.Tab.1.right" timestamp="1579354756512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="981" height="218" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579351492068" />
+    <state width="981" height="218" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state x="-932" y="92" width="840" height="544" key="dock-window-1" timestamp="1579349663946">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-932" y="92" width="840" height="544" key="dock-window-1/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579349663946" />
+  </component>
+</project>
