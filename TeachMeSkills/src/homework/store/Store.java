@@ -1,9 +1,6 @@
 package homework.store;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 
 public class Store {
     static List<Product> Products = new ArrayList<>();
@@ -117,69 +114,74 @@ public class Store {
     }
 
     public void start() {
+        Scanner scanner=new Scanner(System.in);
+        try{
         if (this.scanner != null) {
-            int key;
-            do {
-                printMenu();
-                System.out.print("Введите номер меню: ");
-                key = this.scanner.nextInt();
-                switch (key) {
-                    case 1:
-                        printMenuCase1();
-                        key = this.scanner.nextInt();
-                        switch (key) {
-                            case 1:
-                                for (Product p : priceSortList()) {
-                                    System.out.println(p);
-                                }
-                                break;
-                            case 2:
-                                for (int i = Products.size(); i > 0; i--) {
-                                    System.out.println(priceSortList().get(i - 1));
-                                }
-                                break;
-                            case 3:
-                                for (Product p : sortByLastAddToList()) {
-                                    System.out.println(p);
-                                }
-                                break;
-                            default:
-                                System.out.println("Вы ввели неверное значение меню...\n");
-                        }
-                        break;
-                    case 2:
-                        System.out.println("Введите id товара");
-                        int id = scanner.nextInt();
-                        System.out.println("Введите наименование товара");
-                        String name = scanner.next();
-                        System.out.println("Введите цену товара");
-                        int price = scanner.nextInt();
-                        Product product = new Product(id, name, price);
-                        addProduct(product);
-                        break;
-                    case 3:
-                        System.out.println("Введите id товара");
-                        int deleteId = scanner.nextInt();
-                        removeProduct(deleteId);
-                        break;
-                    case 4:
-                        System.out.print("Введите id товара");
-                        int editId = scanner.nextInt();
-                        System.out.println("Введите наименование товара");
-                        String editName = scanner.next();
-                        System.out.println("Введите цену товара");
-                        int editPrice = scanner.nextInt();
-                        Product editProduct = new Product(editId, editName, editPrice);
-                        editProduct(editProduct);
-                        break;
-                    case 5:
-                        break;
-                    default:
-                        System.out.println("Вы ввели неверное значение меню...\n");
-                }
-            } while (key != 5);
+                int key;
+                do {
+                    printMenu();
+                    System.out.print("Введите номер меню: ");
+                    key = this.scanner.nextInt();
+                    switch (key) {
+                        case 1:
+                            printMenuCase1();
+                            key = this.scanner.nextInt();
+                            switch (key) {
+                                case 1:
+                                    for (Product p : priceSortList()) {
+                                        System.out.println(p);
+                                    }
+                                    break;
+                                case 2:
+                                    for (int i = Products.size(); i > 0; i--) {
+                                        System.out.println(priceSortList().get(i - 1));
+                                    }
+                                    break;
+                                case 3:
+                                    for (Product p : sortByLastAddToList()) {
+                                        System.out.println(p);
+                                    }
+                                    break;
+                                default:
+                                    System.out.println("Вы ввели неверное значение меню...\n");
+                            }
+                            break;
+                        case 2:
+                            System.out.println("Введите id товара");
+                            int id = scanner.nextInt();
+                            System.out.println("Введите наименование товара");
+                            String name = scanner.next();
+                            System.out.println("Введите цену товара");
+                            int price = scanner.nextInt();
+                            Product product = new Product(id, name, price);
+                            addProduct(product);
+                            break;
+                        case 3:
+                            System.out.println("Введите id товара");
+                            int deleteId = scanner.nextInt();
+                            removeProduct(deleteId);
+                            break;
+                        case 4:
+                            System.out.print("Введите id товара");
+                            int editId = scanner.nextInt();
+                            System.out.println("Введите наименование товара");
+                            String editName = scanner.next();
+                            System.out.println("Введите цену товара");
+                            int editPrice = scanner.nextInt();
+                            Product editProduct = new Product(editId, editName, editPrice);
+                            editProduct(editProduct);
+                            break;
+                        case 5:
+                            break;
+                        default:
+                            System.out.println("Вы ввели неверное значение меню...\n");
+                    }
+                } while (key != 5);
+            }
+        }catch (InputMismatchException e){
+            System.out.println("Неверный тип значения, попробуйте снвоа!");
+            start();
         }
-
     }
 }
 
