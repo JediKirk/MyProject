@@ -1,6 +1,5 @@
 package homework.store;
 
-
 public class Product implements Comparable<Product> {
     private int id;
     private String name;
@@ -40,7 +39,6 @@ public class Product implements Comparable<Product> {
     }
 
 
-
     @Override
     public String toString() {
         return "Product " + getName() + ". Product id " + getId()
@@ -48,8 +46,31 @@ public class Product implements Comparable<Product> {
     }
 
     @Override
-    public int compareTo(Product p) {
-        int compareQuantity = p.getPrice();
+    public int compareTo(Product o) {
+        int compareQuantity = o.getPrice();
         return this.price - compareQuantity;
+    }
+
+    @Override
+    public boolean equals(Object product) {
+        if (product == this) {
+            return true;
+        }
+        if (product == null || product.getClass() != this.getClass()) {
+            return false;
+        }
+        Product guest = (Product) product;
+        if (id != guest.getId()) {
+            return false;
+        }
+        return true;
+    }
+
+    @Override
+    public int hashCode() {
+        final int PRIME = 31;
+        int result = 1;
+        result = PRIME * result + getId();
+        return result;
     }
 }

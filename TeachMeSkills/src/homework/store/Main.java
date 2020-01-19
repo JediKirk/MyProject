@@ -1,7 +1,5 @@
 package homework.store;
 
-import java.util.*;
-
 public class Main {
     public static void main(String[] args) {
         Product apple = new Product(0, "Apple", 1500);
@@ -18,12 +16,12 @@ public class Main {
             System.out.println(product);
         }
         System.out.println();
-        store.removeProduct(1);
+        store.deleteProduct(1);
         for (Product product : store.sortByLastAddToList()) {
             System.out.println(product);
         }
         System.out.println();
-        store.editProduct(radio);
+        store.replaceProduct(radio);
         store.printAllProducts();
     }
 }
