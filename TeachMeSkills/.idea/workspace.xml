@@ -7,16 +7,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Store.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/src/generics/HolderStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Other/src/generics/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamAPIExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson29/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson29/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SnakeGameMain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeGameMain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Store.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/store/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/store/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/store/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/store/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/store/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/store/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Udemy/src/lesson20/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +51,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StudyFileRead" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -53,7 +61,7 @@
       <recent name="a" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Console">
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="AddTask2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.Homework.AddTask2" />
       <module name="TeachMeSkills" />
@@ -93,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.Main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson7.homework.task4.*" />
+          <option name="PATTERN" value="lesson7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Task2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Main" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Console" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +228,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="-750" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579722633204">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-750" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579722633204" />
     <state x="-707" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1579358760830">
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
@@ -229,30 +241,31 @@
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
     <state x="-782" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579358163998" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1579354755505">
+    <state x="-629" y="193" key="FileChooserDialogImpl" timestamp="1579611113680">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-629" y="193" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579611113680" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354755505" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1579562146956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354755505" />
-    <state width="981" height="143" key="GridCell.Tab.0.bottom" timestamp="1579449238823">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state width="981" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1579562146956">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579449238823" />
-    <state width="981" height="218" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
-    <state width="981" height="143" key="GridCell.Tab.0.center" timestamp="1579449238823">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state width="981" height="143" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1579562146956">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579449238823" />
-    <state width="981" height="218" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
-    <state width="981" height="143" key="GridCell.Tab.0.left" timestamp="1579449238822">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state width="981" height="143" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1579562146956">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579449238822" />
-    <state width="981" height="218" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
-    <state width="981" height="143" key="GridCell.Tab.0.right" timestamp="1579449238823">
-      <screen x="-1024" y="0" width="1024" height="728" />
-    </state>
-    <state width="981" height="143" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579449238823" />
-    <state width="981" height="218" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
+    <state width="981" height="143" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
     <state width="981" height="218" key="GridCell.Tab.1.bottom" timestamp="1579354756512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -277,14 +290,18 @@
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
     <state x="-1024" y="0" key="SettingsEditor/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579358277198" />
-    <state x="-675" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1579357806447">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579608128078">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-675" y="241" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579357806447" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579355861059" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579608128078" />
     <state x="-932" y="92" width="840" height="544" key="dock-window-1" timestamp="1579349663946">
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
     <state x="-932" y="92" width="840" height="544" key="dock-window-1/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579349663946" />
+    <state x="-1024" y="0" key="new project wizard" timestamp="1579455989766">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-1024" y="0" key="new project wizard/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455989766" />
   </component>
 </project>

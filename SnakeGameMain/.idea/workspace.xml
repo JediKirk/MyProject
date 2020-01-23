@@ -7,7 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d43164f-80e8-41ac-a7cd-70e8caccef6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TeachMeSkills/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TeachMeSkills/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +36,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TeachMeSkills" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -94,10 +98,11 @@
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>
     <state x="-782" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579035171062" />
-    <state x="-732" y="119" key="FileChooserDialogImpl" timestamp="1579035245263">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1579552471947">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-732" y="119" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579035245263" />
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579552471947" />
     <state width="981" height="179" key="GridCell.Tab.0.bottom" timestamp="1579035246419">
       <screen x="-1024" y="0" width="1024" height="728" />
     </state>

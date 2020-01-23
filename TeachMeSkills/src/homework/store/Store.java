@@ -150,10 +150,10 @@ public class Store {
                 }
             } while (key != 5);
         } catch (InputMismatchException e) {
-            System.out.println("Вы ввели неверное значение. Необходимо ввести цифу\n");
+            System.out.println("Вы ввели неверное значение. Необходимо ввести число\n");
             start();
         } catch (NumberFormatException e) {
-            System.out.println("Вы ввели неверное значение меню. Введите цифу\n");
+            System.out.println("Вы ввели неверное значение меню. Введите число\n");
             start();
         }
     }

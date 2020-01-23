@@ -12,14 +12,12 @@ public class Test1 {
         list.add(s);
         list.add(new StringBuilder("ok"));
 
-        ArrayList <String> list2=new ArrayList<String>();
+        ArrayList <String> list2= new ArrayList<String>();
         list2.add("poka");
+        ArrayList<StringBuilder> list3 = new ArrayList<>();
 
     }
 }
 
-class Student {
-}
-
-class Car {
-}
+class Student {}
+class Car {}
