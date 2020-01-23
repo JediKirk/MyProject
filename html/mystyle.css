@@ -1,0 +1,81 @@
+a{
+	color:red;
+	font-size:16px
+}
+body{
+	background-image:url(images/assassin.jpg);
+}
+#test{
+	transform:rotate(0deg) ;
+	transition:2s all;
+	background-color:#ffffff;
+	color:#333;
+	padding:15px;
+	margin:15px;
+	border:7px solid #2F3841;
+	border-radius:30px;
+	opacity:0.9;
+	box-shadow:3px 3px 7px #960808;
+	width:400px;
+	display:block;
+	text-align:center;
+	font-size:30px;
+	font-weight:300;
+}
+#test:hover{
+	transform:rotate(90deg) scale(0.3);
+	border:5px solid #2F3841;
+	background-color: #960808;
+}
+#my_ssilka{
+	color:green;
+}
+
+#test_ssilka{
+	font-size:20px;
+	color:purple;
+}
+.message{
+	color:#747474;
+	background-color:#E4E4E4;
+	border:1px solid #323232;
+	font-size:20px;
+	margin:10px;
+	padding:15px;
+	width:200px;
+	border-radius:30px;
+}
+
+.success{
+	background-color:#19A15F;
+	color:#ffffff;
+	width:200px;
+}
+
+.fail{
+	background-color:#D65144;
+	color:#ffffff;
+	width:200px;
+}
+.info{
+	background-color:#4B8BF5;
+	color:#ffffff;
+	width:200px;
+}
+.warning{
+	background-color:#FFCE43;
+	color:#000000;
+	width:200px;
+}
+.human{
+	color:blue;
+	
+}
+
+.animal{
+	color:orange;
+}
+
+.message:hover{
+	border:5px solid #323232;
+}

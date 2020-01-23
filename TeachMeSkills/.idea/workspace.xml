@@ -7,24 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Other/src/generics/HolderStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Other/src/generics/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamAPIExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson29/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Udemy/src/lesson29/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jd1-les03-ex01/src/by/htp/les01/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SnakeGameMain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SnakeGameMain/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Store.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TeachMeSkills/homework/store/Store.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/store/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Udemy/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Udemy/bin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Udemy/src/lesson20/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/src/lesson20/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../html/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
