@@ -7,9 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/SuperArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/SuperArrayOverflowException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson12/StreamAPIExercises.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +39,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -271,10 +274,11 @@
     </state>
     <state width="981" height="218" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579351492068" />
     <state width="981" height="218" key="GridCell.Tab.1.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354756512" />
-    <state x="-1024" y="0" key="SettingsEditor" timestamp="1579358277198">
-      <screen x="-1024" y="0" width="1024" height="728" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1579894830680">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1024" y="0" key="SettingsEditor/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579358277198" />
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579894830680" />
     <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1579608128078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
