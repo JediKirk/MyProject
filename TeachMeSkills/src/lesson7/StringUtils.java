@@ -78,7 +78,6 @@ public class StringUtils {
                 mostFrequent = arrayChar[i];
             }
         }
-
         return mostFrequent;
     }
 

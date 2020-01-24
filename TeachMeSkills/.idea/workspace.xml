@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/Collections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/SuperArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lessons/lesson10/SuperArrayOverflowException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson7/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson7/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson10/Collections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson10/Collections.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +47,26 @@
       <recent name="a" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamApiExercises">
+  <component name="RunManager" selected="Application.Collections">
     <configuration name="AddTask2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.Homework.AddTask2" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lesson3.Homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Collections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson10.Collections" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,19 +93,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="lesson.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework.store.Main" />
-      <module name="TeachMeSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="homework.store.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Collections" />
         <item itemvalue="Application.StreamApiExercises" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Console" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -234,25 +232,25 @@
     </state>
     <state x="-629" y="193" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579611113680" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579354755505" />
-    <state width="1877" height="227" key="GridCell.Tab.0.bottom" timestamp="1579562146956">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="981" height="142" key="GridCell.Tab.0.bottom" timestamp="1579905557841">
+      <screen x="-1024" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="981" height="142" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579905557841" />
     <state width="1877" height="227" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
-    <state width="1877" height="227" key="GridCell.Tab.0.center" timestamp="1579562146956">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="981" height="142" key="GridCell.Tab.0.center" timestamp="1579905557841">
+      <screen x="-1024" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="981" height="142" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579905557841" />
     <state width="1877" height="227" key="GridCell.Tab.0.center/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
-    <state width="1877" height="227" key="GridCell.Tab.0.left" timestamp="1579562146956">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="981" height="142" key="GridCell.Tab.0.left" timestamp="1579905557841">
+      <screen x="-1024" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="981" height="142" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579905557841" />
     <state width="1877" height="227" key="GridCell.Tab.0.left/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
-    <state width="1877" height="227" key="GridCell.Tab.0.right" timestamp="1579562146956">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="981" height="142" key="GridCell.Tab.0.right" timestamp="1579905557841">
+      <screen x="-1024" y="0" width="1024" height="728" />
     </state>
-    <state width="981" height="143" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579455991263" />
+    <state width="981" height="142" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@-1024.0.1024.728" timestamp="1579905557841" />
     <state width="1877" height="227" key="GridCell.Tab.0.right/0.0.1920.1040/-1024.0.1024.728@0.0.1920.1040" timestamp="1579562146956" />
     <state width="981" height="218" key="GridCell.Tab.1.bottom" timestamp="1579354756512">
       <screen x="0" y="0" width="1920" height="1040" />
