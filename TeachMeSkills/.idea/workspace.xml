@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca7e6a66-9493-463f-9a73-37ecb4dfcedc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lessons/lesson12/StreamApiExercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../html/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lessons/lesson12/StreamAPIExercises.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,7 @@
       <recent name="a" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
+  <component name="RunManager" selected="Application.StreamApiExercises">
     <configuration name="AddTask2" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lesson3.Homework.AddTask2" />
       <module name="TeachMeSkills" />
@@ -65,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homework.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson.Demo" />
+      <module name="TeachMeSkills" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Main" />
+    <configuration name="StreamApiExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.lesson12.StreamApiExercises" />
       <module name="TeachMeSkills" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lesson7.homework.task4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lesson7.homework.task4.Task3" />
-      <module name="TeachMeSkills" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lesson7.homework.task4.*" />
+          <option name="PATTERN" value="lessons.lesson12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamApiExercises" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Console" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
